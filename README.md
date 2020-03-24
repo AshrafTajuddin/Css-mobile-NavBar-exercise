@@ -2,9 +2,9 @@
 
 ## Data Structure
 
-- This should be in repo on github and also github pages
-- Consider this website is very responsive
-- Take some hamburger menu ideas from codepen, only if you totally understand what in it, or you can Build your own one.
+- onclick function on the hamburger menu to (hide/show) the menu
+- give some fancy effects when the menu hides and shows like transition or so
+- this hamburger menu is only for the mobile version on your mobile app
 
 ### Method
 
