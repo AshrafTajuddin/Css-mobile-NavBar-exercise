@@ -6,10 +6,6 @@
 - Consider this website is very responsive
 - Take some hamburger menu ideas from codepen, only if you totally understand what in it, or you can Build your own one.
 
-## Expected Output
-
-![webpage](https://i.imgur.com/1VxX9zy.png)
-
 ### Method
 
 ```html
@@ -33,7 +29,8 @@ using Font Awesome for the hamburger icon.
 ### Resources
 
 - [HAMBURGER MENU - codepen](https://codepen.io/search/pens?q=hamburger+menu+css&cursor=ZD0xJm89MCZwPTQ=)
+- [what is "javascript:void(0);" -stack overflow](https://stackoverflow.com/questions/1291942/what-does-javascriptvoid0-mean)
 
 #### Result
 
-[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-responsive-webpage-exercise/)
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-mobile-NavBar-exercise/)
